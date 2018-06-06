@@ -1,6 +1,6 @@
 # cartao_de_credito_ProdutoFinal
 ##Fluxograma
-![Fluxograma cartao_de_credito_ProdutoFinal](Fluxograma Produto Cartão de Crédito.jpeg)
+![Fluxograma cartao_de_credito_ProdutoFinal](Fluxograma)
 ##Tarefas
   1. Solicitar número do cartão ao usuário: criar prompt;
   2. Usuário não pode deixar prompt vazio = while;
