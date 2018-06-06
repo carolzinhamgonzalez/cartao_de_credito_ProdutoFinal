@@ -1,10 +1,12 @@
 # cartao_de_credito_ProdutoFinal
 ##Tarefas
-  * Criar arquivos html e js;
-  * Lincar js no html;
-  * Solicitar número do cartão ao usuário: criar prompt;
+  1. Solicitar número do cartão ao usuário: criar prompt;
+  2. Usuário não pode deixar prompt vazio = while;
 ###Manipular informação do prompt:
-    1. Transformar a string fornecida no prompt em uma array de strings = stringCard
-    2. Transformar a array de strings em uma array de números = numberCard;
-    3. Comitar!
-###Validar se o número é um  
+    1. Transformar a string fornecida no prompt em uma array = stringCard;
+    2. Transformar a array de strings em uma array de números = numberCard.
+
+###Validar se o número fornecido é de um cartão de crédito - Com algoritmo Luhn:
+    1. Inverter a ordem da array numberCard;
+    2. Executar o algoritmo Luhn = for para multiplicar os números em índices ímpares + for para somar a array inteira;
+    3. Validar o número do cartão = result.
