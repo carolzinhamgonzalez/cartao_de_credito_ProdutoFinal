@@ -2,6 +2,7 @@
 ##Tarefas
   1. Solicitar número do cartão ao usuário: criar prompt;
   2. Usuário não pode deixar prompt vazio = while;
+  3. Criar a função isValidCard;
 ###Manipular informação do prompt:
     1. Transformar a string fornecida no prompt em uma array = stringCard;
     2. Transformar a array de strings em uma array de números = numberCard.
